@@ -1,11 +1,9 @@
 {
-  "name": "tool-js",
+  "name": "@jin-1999/tool-js",
   "version": "1.0.0",
-  "description": "自用工具函数",
+  "description": "a library for myself",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Jin-1999",
   "license": "ISC"
 }
